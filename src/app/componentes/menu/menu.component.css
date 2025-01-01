@@ -1,0 +1,39 @@
+section {
+    padding: 5rem 1rem;
+}
+
+.hero-section {
+    background-image: url('/pasta.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.menu-section {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.menu-section span {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.menu-section img {
+    border-radius: .5rem;
+    margin-bottom: 1rem;
+}
+
+.menu-section img:hover {
+    transform: scale(1.02);
+}
+
+.menu-section h3 {
+    color: #ff5722;
+    overflow-y: hidden;
+}

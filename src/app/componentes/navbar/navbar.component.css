@@ -1,0 +1,27 @@
+.navbar-toggler {
+    border-color: #fff;
+}
+
+.navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+}
+
+.nav-link {
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link:hover {
+    transform: scale(1.05);
+    color: #FFC163 !important;
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+
+.logo-img {
+    max-width: 24%;
+    padding: 0;
+}
