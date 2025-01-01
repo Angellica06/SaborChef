@@ -10,50 +10,9 @@ To start a local development server, run:
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Sobre
+Projeto de uma landing page de restaurante, desenvolvida utilizando Angular. O design da página foi criado por mim, com foco em uma estética visual moderna e intuitiva.
+O objetivo principal da página é fornecer uma interface atraente e funcional, com informações sobre o restaurante, menu, sobre o restaurante e uma área de contato.
+A página é responsiva, adaptando-se a diferentes tamanhos de tela, e apresenta uma navegação intuitiva para os usuários.
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+![screencapture-localhost-4200-2025-01-01-12_25_37](https://github.com/user-attachments/assets/e7e8e203-b105-4f54-ab1a-d64687e33e31)
