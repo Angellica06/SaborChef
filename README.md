@@ -15,4 +15,6 @@ Projeto de uma landing page de restaurante, desenvolvida utilizando Angular. O d
 O objetivo principal da página é fornecer uma interface atraente e funcional, com informações sobre o restaurante, menu, sobre o restaurante e uma área de contato.
 A página é responsiva, adaptando-se a diferentes tamanhos de tela, e apresenta uma navegação intuitiva para os usuários.
 
+Link do deploy: https://saborchef.netlify.app/
+
 ![screencapture-localhost-4200-2025-01-01-12_25_37](https://github.com/user-attachments/assets/e7e8e203-b105-4f54-ab1a-d64687e33e31)
